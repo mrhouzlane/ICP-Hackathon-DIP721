@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/wasm32-unknown-unknown/release/build/typenum-f315e295e95ce7bb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/wasm32-unknown-unknown/release/build/typenum-f315e295e95ce7bb/out/op.rs

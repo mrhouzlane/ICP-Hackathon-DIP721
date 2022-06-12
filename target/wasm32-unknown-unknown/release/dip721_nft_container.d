@@ -1,0 +1,1 @@
+/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/wasm32-unknown-unknown/release/dip721_nft_container.wasm: /Users/mehdirhouzlane/examples/rust/dip721-nft-container/build.rs /Users/mehdirhouzlane/examples/rust/dip721-nft-container/src/http.rs /Users/mehdirhouzlane/examples/rust/dip721-nft-container/src/lib.rs

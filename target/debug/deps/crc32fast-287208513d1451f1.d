@@ -1,0 +1,10 @@
+/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/debug/deps/crc32fast-287208513d1451f1.rmeta: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs
+
+/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/debug/deps/crc32fast-287208513d1451f1.d: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs
+
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/lib.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/baseline.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/combine.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/mod.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/table.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.0/src/specialized/pclmulqdq.rs:

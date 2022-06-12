@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/release/build/typenum-53ed3e7b657f94a2/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/release/build/typenum-53ed3e7b657f94a2/out/op.rs

@@ -1,0 +1,10 @@
+/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/debug/deps/arrayvec-0ae783dd2b405305.rmeta: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs
+
+/Users/mehdirhouzlane/examples/rust/dip721-nft-container/target/debug/deps/arrayvec-0ae783dd2b405305.d: /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs /Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs
+
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/lib.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/maybe_uninit.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/array_string.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/char.rs:
+/Users/mehdirhouzlane/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.5.2/src/errors.rs:
